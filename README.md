@@ -32,8 +32,7 @@ Ecoli or salmon fish.
 
 
 
-For adapter trimming and quality check, install trimgalore:: 
-
+For adapter trimming and quality check, install trimgalore::
 
     conda install -c bioconda trim-galore 
 
@@ -43,18 +42,15 @@ Lets Install Assemblers.
 
 IDBA::
 
-
     conda install -c bioconda idba 
 
 
 SPAdes::
 
-
     conda install -c bioconda spades 
 
 
 Velvet::
-
 
     conda install -c bioconda velvet 
 
@@ -69,8 +65,9 @@ You will need to install khmer for diginorm ::
     conda install -c bioconda khmer 
 
 
+
 Finally for evaluation, install Quast :: 
 
 
-   conda install -c bioconda quast 
+    conda install -c bioconda quast 
 
