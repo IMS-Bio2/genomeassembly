@@ -31,15 +31,15 @@ Ecoli or salmon fish.
 ------------------------
 
 
-Install trimgalore for adaptors and quality filtering:: 
+.. Install trimgalore for adaptors and quality filtering:: 
 
 	
        conda install -c bioconda trim-galore 
 
 
-Install IDBA:: 
+.. Install IDBA:: 
 	
-	conda install -c bioconda idba 
+      conda install -c bioconda idba 
 
 
 
