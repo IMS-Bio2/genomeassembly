@@ -39,6 +39,8 @@ For adapter trimming and quality check, install trimgalore::
 
 
 Lets Install Assemblers. 
+
+
 IDBA::
 
 
