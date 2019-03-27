@@ -40,26 +40,20 @@ For adapter trimming and quality check, install trimgalore for adaptors and qual
 
 Install Assemblers: 
 
-Install IDBA:
+Install IDBA :: 
 
-
-:: 
 	
     conda install -c bioconda idba 
 
 
-Install SPAdes:
+Install SPAdes :: 
 
-
-:: 
 
     conda install -c bioconda spades 
 
 
-Install Velvet:
+Install Velvet :: 
 
-
-:: 
 
     conda install -c bioconda velvet 
 
