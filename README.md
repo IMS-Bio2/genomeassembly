@@ -42,20 +42,21 @@ Install Assemblers:
 
 Install IDBA:
 
-  :: 
+:: 
 	
       conda install -c bioconda idba 
 
+
 Install SPAdes:
 
- :: 
+:: 
 
      conda install -c bioconda spades 
 
 
 Install Velvet:
 
-  :: 
+:: 
 
     conda install -c bioconda velvet 
 
