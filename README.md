@@ -36,20 +36,16 @@ For adapter trimming and quality check, install trimgalore ::
 
     conda install -c bioconda trim-galore 
 
-Install Assemblers: 
+Install IDBA ::
+
+   conda install -c bioconda idba 
 
 
-.. code-block:: none
-
-    conda install -c bioconda idba 
-
-
-.. code-block:: none
-
+Install SPAdes ::
+ 
     conda install -c bioconda spades 
 
-
-.. code-block:: none
+Install Velvet ::
 
     conda install -c bioconda velvet 
 
