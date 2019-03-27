@@ -60,7 +60,8 @@ Velvet::
 
 
 
-`Read this paper for more details about digital normalization: <http://arxiv.org/abs/1203.4802>`_
+
+`Read this paper for more details about digital normalization <http://http://arxiv.org/abs/1203.4802>`__
 
 
 You will need to install khmer for diginorm :: 
