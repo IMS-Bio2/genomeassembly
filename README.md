@@ -1,17 +1,17 @@
 **Genome Assembly** 
-##################
+------------------------
 
 
 This is a training project proposal for students
 
 **Data sets** 
-##############
+----------------
 
 Ecoli or salmon fish. 
 
 
 **Assemblers** 
-#############
+----------------
 
 1. IDBA 
 2. SPAdes 
@@ -19,7 +19,7 @@ Ecoli or salmon fish.
 
 
 **Steps**
-##########
+-----------
 
 1. Download data sets. 
 2. Trim adaptors and do a quality check 
@@ -28,18 +28,16 @@ Ecoli or salmon fish.
 
 
 **More Details** 
-###################
+------------------------
 
 
 Install trimgalore for adaptors and quality filtering:: 
 
-.. codeblock:: Install trimgalore
 	
        conda install -c bioconda trim-galore 
 
 
-
-.. codeblock:: Install IDBA 
+Install IDBA:: 
 	
 	conda install -c bioconda idba 
 
