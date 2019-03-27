@@ -68,3 +68,9 @@ You will need to install khmer for diginorm ::
    
     conda install -c bioconda khmer 
 
+
+Finally for evaluation, install Quast :: 
+
+
+   conda install -c bioconda quast 
+
